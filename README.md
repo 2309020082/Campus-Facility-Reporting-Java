@@ -19,7 +19,4 @@ Desktop application for reporting damaged campus facilities at UMSU. Built with 
 2. Open project in NetBeans
 3. Run Main.java
 
-## Screenshots
-[Tambahkan screenshot aplikasi kalau ada]
-
 Developed by Darina Khumaira - TI UMSU Semester 7
